@@ -1,0 +1,22 @@
+{
+  "name": "sign-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ar-Amin/signin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ar-Amin/signin/issues"
+  },
+  "homepage": "https://github.com/Ar-Amin/signin#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
